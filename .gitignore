@@ -5,3 +5,6 @@
 desktop.ini
 *.docx
 /DIMACS*
+/PP
+/graph_examples
+test*
