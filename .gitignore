@@ -1,10 +1,7 @@
-~*
-Диплом*
-/graph
+/text
+/data
 /.vscode
+/graph
+
 desktop.ini
-*.docx
-/DIMACS*
-/PP
-/graph_examples
 test*
